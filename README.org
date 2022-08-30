@@ -1,0 +1,19 @@
+#+title: Birds
+#+subtitle: Lambda calculus á la Smullyan's _To Kill a Mockingbird_
+#+author: Lao Tong
+
+* About
+This project consists of combinators and Church encodings of various data structures and operators implemented in Python.
+
+The implementations of the combinators follow the descriptions of birds in mathematician Raymond Smullyan's 1985 logic puzzle book, /To Mock a Mockingbird/.
+
+* Resources
+Here's some resources I've used to understand lambda calculus and to implement the combinators:
+- Raymond Smullyan's /To Mock a Mockingbird/
+- Gabriel Lebec's presentations
+  - [[https://www.youtube.com/watch?v=3VQ382QG-y4][Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript]]
+  - [[https://www.youtube.com/watch?v=pAnLQ9jwN-E][A Flock of Functions: Combinators, Lambda Calculus, & Church Encodings in JS - Part II]]
+- David Beazley's [[https://www.youtube.com/watch?v=5C6sv7-eTKg][2019 PyCon presentation on lambda calculus]]
+- Chris Rathman's [[https://www.angelfire.com/tx4/cus/combinator/birds.html][Combinator Birds]]
+- Matt Might's [[https://matt.might.net/articles/python-church-y-combinator/][Equational derivations of the Y combinator and Church encodings in Python]] blog post
+- Greg Michaelson's /An Introduction to Functional Programming Through Lambda Calculus/
