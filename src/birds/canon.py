@@ -293,6 +293,8 @@ converse_warbler = W1
 def Y(f):
     """
     The Sage bird (Y) combinator.
+    Actually, this is the Z combinator since Python eagerly evaluates function
+    arguments.
     """
     def g(x):
         def h(y):
