@@ -5,7 +5,7 @@
 * About
 This project consists of combinators and Church encodings of various data structures and operators implemented in Python.
 
-The implementations of the combinators follow the descriptions of birds in mathematician Raymond Smullyan's 1985 logic puzzle book, /To Mock a Mockingbird/.
+The implementation of the combinators follows the descriptions of birds in mathematician Raymond Smullyan's 1985 logic puzzle book, /To Mock a Mockingbird/.
 
 * Resources
 Here's some resources I've used to understand lambda calculus and to implement the combinators:
